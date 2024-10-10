@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a40c3762-cbfd-45ca-9d4c-00a0c997ca0b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ejercicios_Secuenciales.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio7.java" afterDir="false" />
-    </list>
+    <list default="true" id="a40c3762-cbfd-45ca-9d4c-00a0c997ca0b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Team-Toro/JavaEjSecunciales",
+    "accountId": "17331f1a-825d-428f-a314-ece2f43e9a4f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
